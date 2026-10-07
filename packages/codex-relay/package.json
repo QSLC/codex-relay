@@ -45,7 +45,7 @@
     "@hono/node-server": "^1.19.6",
     "@libsql/client": "0.17.4",
     "@lydell/node-pty": "1.2.0-beta.12",
-    "@modelcontextprotocol/sdk": "^1.24.0",
+    "@modelcontextprotocol/sdk": "^1.31.0",
     "@noble/ciphers": "2.2.0",
     "@noble/curves": "2.2.0",
     "@noble/hashes": "2.2.0",
